@@ -7,3 +7,6 @@ The server will return a zip file, which contains pictures that have watermark a
 
 To run this program, you need to install `ffmpeg` on your server first, then
 run `go run watermarker.go` and open http://[SERVER-IP]:8848 in your browser.
+
+
+trigger tekton
