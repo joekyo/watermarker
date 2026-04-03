@@ -11,4 +11,4 @@ run `go run watermarker.go` and open http://[SERVER-IP]:8848 in your browser.
 
 trigger tekton
 try again
-and again
+and again...
